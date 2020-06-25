@@ -1,1 +1,1 @@
-# GihubEducation
+# GithubEducation
